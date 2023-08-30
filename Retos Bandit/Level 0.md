@@ -35,3 +35,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ## Referencias 
 [Secure Shell - Wikiwand](https://www.wikiwand.com/en/Secure_Shell)
 [How to Use SSH (with Pictures) - wikiHow](https://www.wikihow.com/Use-SSH)
+
+
+git remote add origin
+git@github.com:https://github.com/CarlosTadeoIR/Notas-Hacking.git
