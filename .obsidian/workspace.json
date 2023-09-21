@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Bandit/Level 22 - 23.md",
+                "file": "Retos Bandit/Level 29 - 30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "425132241271fab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Bandit/Level 28 - 29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Bandit/Level 22 - 23.md",
+                "file": "Retos Bandit/Level 28 - 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Bandit/Level 22 - 23.md",
+                "file": "Retos Bandit/Level 28 - 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Bandit/Level 22 - 23.md"
+                "file": "Retos Bandit/Level 28 - 29.md"
               }
             }
           },
@@ -159,18 +172,24 @@
   },
   "active": "192aefcd05238890",
   "lastOpenFiles": [
-    "Retos Bandit/Level 27 - 28.md",
-    "Retos Bandit/Level 26 - 27.md",
+    "Retos Bandit/Level 33 - 34.md",
+    "Retos Bandit/Level 32 - 33.md",
+    "Retos Bandit/Level 31 - 32.md",
+    "Retos Bandit/Level 29 - 30.md",
+    "Retos Bandit/Level 30 - 31.md",
+    "Retos Bandit/Level 28 - 29.md",
+    "README.md",
     "Retos Bandit/Level 25 - 26.md",
+    "Retos Bandit/Level 26 - 27.md",
+    "Retos Bandit/Level 27 - 28.md",
+    "Actividad 8 - Instalación de herramientas.pdf",
+    "Prueba.md",
+    "Screenshot_2023-09-20_18_23_31.png",
+    "2023-09-05.md",
+    "Retos Bandit/Level 22 - 23.md",
     "Retos Bandit/Level 24 - 25.md",
     "Retos Bandit/Level 23 - 24.md",
-    "Retos Bandit/Level 22 - 23.md",
     "Retos Bandit/Level 21 - 22.md",
-    "Level 33 - 34.md",
-    "Level 31 - 32.md",
-    "Level 30 - 31.md",
-    "Level 29 - 30.md",
-    "Level 28 - 29.md",
     "Retos Bandit/Level 0 - 1.md",
     "Retos Bandit/Level 15 - 16.md",
     "Retos Bandit/Plantilla.md",
@@ -181,10 +200,6 @@
     "Retos Bandit/Level 17 - 18.md",
     "Retos Bandit/Level 18 - 19.md",
     "Retos Bandit/Level 13 - 14.md",
-    "Retos Bandit/Level 12 - 13.md",
-    "Retos Bandit/Level 14 - 15.md",
-    "2023-09-05.md",
-    "Retos Bandit/Level 10 - 11.md",
     "Presentaciones notas",
     "Retos Bandit"
   ]
