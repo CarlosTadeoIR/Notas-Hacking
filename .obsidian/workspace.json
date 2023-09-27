@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "13d8aa9ed6408931",
+        "id": "f198276ae82b075d",
         "type": "tabs",
         "children": [
           {
-            "id": "820042efdbd62f48",
+            "id": "e36cea9c3b09470f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Bandit/Level 29 - 30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "425132241271fab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos Bandit/Level 29 - 30.md",
+                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "right": {
     "id": "7e1c8904ea3839ff",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Bandit/Level 29 - 30.md",
+                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Bandit/Level 29 - 30.md",
+                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Bandit/Level 29 - 30.md"
+                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md"
               }
             }
           },
@@ -170,36 +157,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "425132241271fab0",
+  "active": "e36cea9c3b09470f",
   "lastOpenFiles": [
-    "Retos Bandit/Level 30 - 31.md",
-    "Retos Bandit/Level 31 - 32.md",
-    "Retos Bandit/Level 32 - 33.md",
-    "Retos Bandit/Level 33 - 34.md",
-    "Retos Bandit/Level 23 - 24.md",
-    "Retos Bandit/Level 22 - 23.md",
-    "Retos Bandit/Level 29 - 30.md",
-    "Retos Bandit/Level 28 - 29.md",
-    "README.md",
-    "Retos Bandit/Level 25 - 26.md",
-    "Retos Bandit/Level 26 - 27.md",
-    "Retos Bandit/Level 27 - 28.md",
+    "Primer Parcial/Primer Parcial Parte 02/Codebook.md",
+    "Primer Parcial/Primer Parcial Parte 02/Bases.md",
+    "Primer Parcial/Primer Parcial Parte 02/2Warm.md",
+    "Primer Parcial/Primer Parcial Parte 03/Based.md",
+    "Primer Parcial/Primer Parcial Parte 03/fixme2.py.md",
+    "Primer Parcial/Primer Parcial Parte 03/Glitch Cat.md",
+    "Primer Parcial/Primer Parcial Parte 03/plumbing.md",
+    "Primer Parcial/Primer Parcial Parte 03/PW Crack 1.md",
+    "Primer Parcial/Primer Parcial Parte 03/PW Crack 2.md",
+    "Primer Parcial/Primer Parcial Parte 03/PW Crack 3.md",
+    "Primer Parcial/Primer Parcial Parte 03/runme.py.md",
+    "Primer Parcial/Primer Parcial Parte 02/what's a net cat.md",
+    "Primer Parcial/Primer Parcial Parte 02/strings it.md",
+    "Primer Parcial/Primer Parcial Parte 02/fixme1.py.md",
+    "Primer Parcial/Primer Parcial Parte 02/First Grep.md",
+    "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
+    "Primer Parcial/Primer Parcial Parte 01/Wave a flag.md",
+    "Primer Parcial/Primer Parcial Parte 01/Warmed Up.md",
+    "Primer Parcial/Primer Parcial Parte 01/Tab, Tab, Attack.md",
+    "Primer Parcial/Primer Parcial Parte 01/Static ain't always noise.md",
+    "Primer Parcial/Primer Parcial Parte 01/Obedient Cat.md",
+    "Primer Parcial/Primer Parcial Parte 01/Nice netcat....md",
+    "Primer Parcial/Primer Parcial Parte 01/Magikarp Ground Mission.md",
+    "Primer Parcial/Primer Parcial Parte 01/Lets Warm Up.md",
+    "Retos Bandit/Level 12 - 13.md",
+    "Plantilla picoCTF.md",
+    "Primer Parcial/Primer Parcial Parte 03",
+    "Primer Parcial/Primer Parcial Parte 02",
+    "Primer Parcial/Primer Parcial Parte 01",
+    "Primer Parcial",
     "Actividad 8 - Instalación de herramientas.pdf",
-    "Prueba.md",
     "Screenshot_2023-09-20_18_23_31.png",
-    "2023-09-05.md",
-    "Retos Bandit/Level 24 - 25.md",
-    "Retos Bandit/Level 21 - 22.md",
-    "Retos Bandit/Level 0 - 1.md",
-    "Retos Bandit/Level 15 - 16.md",
-    "Retos Bandit/Plantilla.md",
-    "Retos Bandit/Level  20 - 21.md",
-    "Retos Bandit/Level 20 - 21.md",
-    "Retos Bandit/Level 19 - 20.md",
-    "Retos Bandit/Level 16 - 17.md",
-    "Retos Bandit/Level 17 - 18.md",
-    "Retos Bandit/Level 18 - 19.md",
-    "Retos Bandit/Level 13 - 14.md",
     "Presentaciones notas",
     "Retos Bandit"
   ]
