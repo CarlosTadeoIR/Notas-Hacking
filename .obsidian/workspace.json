@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "383a2b2dd71d593b",
+            "id": "9c0d74ab45b1b087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
+                "file": "Retos Web/PARTE 3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a829518f6bce8060",
+            "id": "4198a46e324b975a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagenes/Pasted image 20231009221200.png"
+                "file": "Retos Web/PARTE 3/GET aHEAD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagenes/Pasted image 20231009221200.png",
+                "file": "Retos Web/PARTE 3/GET aHEAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagenes/Pasted image 20231009221200.png",
+                "file": "Retos Web/PARTE 3/GET aHEAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagenes/Pasted image 20231009221200.png"
+                "file": "Retos Web/PARTE 3/GET aHEAD.md"
               }
             }
           },
@@ -168,24 +170,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a829518f6bce8060",
+  "active": "192aefcd05238890",
   "lastOpenFiles": [
-    "Screenshot_2023-10-09_23_37_28.png",
-    "Imagenes/Pasted image 20231009221200.png",
-    "Retos Web/PARTE 2/JaWT Scratchpad.md",
-    "Imagenes/Pasted image 20231009231051.png",
-    "Pasted image 20231009225634.png",
-    "Imagenes/Pasted image 20231009230712.png",
-    "Imagenes/Pasted image 20231009225900.png",
-    "Imagenes/Pasted image 20231009225553.png",
-    "Imagenes/Pasted image 20231009225457.png",
-    "Imagenes/Pasted image 20231009225435.png",
-    "Imagenes/Pasted image 20231009221433.png",
-    "Imagenes/Pasted image 20231009221255.png",
-    "Retos Web/PARTE 2/Irish-Name-Repo 2.md",
-    "Plantilla picoCTF.md",
-    "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
     "Retos Web/PARTE 2/Irish-Name-Repo 1.md",
+    "Retos Web/PARTE 3/GET aHEAD.md",
+    "Imagenes/Pasted image 20231010004535.png",
+    "Plantilla picoCTF.md",
+    "Retos Web/PARTE 3/Scavenger Hunt.md",
+    "Retos Web/PARTE 3/Cookies.md",
+    "Imagenes/Pasted image 20231010002756.png",
+    "Imagenes/Pasted image 20231010003236.png",
+    "Imagenes/Pasted image 20231010003213.png",
+    "Imagenes/Pasted image 20231010003116.png",
+    "Imagenes/Pasted image 20231010002951.png",
+    "Imagenes/Pasted image 20231009233706.png",
+    "Imagenes/Pasted image 20231010001347.png",
+    "Retos Web/PARTE 2/JaWT Scratchpad.md",
+    "Imagenes/Pasted image 20231010000658.png",
+    "Imagenes/Pasted image 20231009234413.png",
+    "Retos Web/PARTE 3",
+    "Retos Web/PARTE 2/Irish-Name-Repo 2.md",
+    "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
     "README.md",
     "Prueba.md",
     "Actividad 8 - Instalación de herramientas.pdf",
@@ -200,7 +205,6 @@
     "Retos Concurso/Find the message.md",
     "Retos Concurso/Discord.md",
     "Retos Concurso",
-    "Sin título",
     "Retos Web/PARTE 1/picobrowser.md",
     "Retos Web/PARTE 1/logon.md",
     "Retos Web/PARTE 1/Insp3ct0r.md",
@@ -210,9 +214,6 @@
     "Retos Bandit/Level 1 - 2.md",
     "Retos Web",
     "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
-    "Primer Parcial/Primer Parcial Parte 02/Codebook.md",
-    "Primer Parcial/Primer Parcial Parte 02/Bases.md",
-    "Primer Parcial/Primer Parcial Parte 02/2Warm.md",
     "Primer Parcial/Primer Parcial Parte 03",
     "Primer Parcial/Primer Parcial Parte 02",
     "Primer Parcial/Primer Parcial Parte 01"
