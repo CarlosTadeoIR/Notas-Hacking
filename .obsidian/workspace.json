@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f198276ae82b075d",
+        "id": "ba885cbad05a3025",
         "type": "tabs",
         "children": [
           {
-            "id": "e36cea9c3b09470f",
+            "id": "383a2b2dd71d593b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
+                "file": "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a829518f6bce8060",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/Pasted image 20231009221200.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
+                "file": "Imagenes/Pasted image 20231009221200.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
+                "file": "Imagenes/Pasted image 20231009221200.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/Primer Parcial Parte 02/convertme.py.md"
+                "file": "Imagenes/Pasted image 20231009221200.png"
               }
             }
           },
@@ -157,41 +168,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e36cea9c3b09470f",
+  "active": "a829518f6bce8060",
   "lastOpenFiles": [
+    "Screenshot_2023-10-09_23_37_28.png",
+    "Imagenes/Pasted image 20231009221200.png",
+    "Retos Web/PARTE 2/JaWT Scratchpad.md",
+    "Imagenes/Pasted image 20231009231051.png",
+    "Pasted image 20231009225634.png",
+    "Imagenes/Pasted image 20231009230712.png",
+    "Imagenes/Pasted image 20231009225900.png",
+    "Imagenes/Pasted image 20231009225553.png",
+    "Imagenes/Pasted image 20231009225457.png",
+    "Imagenes/Pasted image 20231009225435.png",
+    "Imagenes/Pasted image 20231009221433.png",
+    "Imagenes/Pasted image 20231009221255.png",
+    "Retos Web/PARTE 2/Irish-Name-Repo 2.md",
+    "Plantilla picoCTF.md",
+    "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
+    "Retos Web/PARTE 2/Irish-Name-Repo 1.md",
+    "README.md",
+    "Prueba.md",
+    "Actividad 8 - Instalación de herramientas.pdf",
+    "2023-09-05.md",
+    "Retos Web/PARTE 1/where are the robots.md",
+    "Retos Web/PARTE 2",
+    "Retos Web/PARTE 1/Client-side-again.md",
+    "Retos Web/PARTE 1",
+    "Retos Concurso/Poor security.md",
+    "Retos Concurso/Hidden-Instruction.md",
+    "Retos Concurso/An intriguing file.md",
+    "Retos Concurso/Find the message.md",
+    "Retos Concurso/Discord.md",
+    "Retos Concurso",
+    "Sin título",
+    "Retos Web/PARTE 1/picobrowser.md",
+    "Retos Web/PARTE 1/logon.md",
+    "Retos Web/PARTE 1/Insp3ct0r.md",
+    "Retos Web/PARTE 1/dont-use-client-side.md",
+    "Imagenes",
+    "Pasted image 20231003214611.png.md",
+    "Retos Bandit/Level 1 - 2.md",
+    "Retos Web",
+    "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
     "Primer Parcial/Primer Parcial Parte 02/Codebook.md",
     "Primer Parcial/Primer Parcial Parte 02/Bases.md",
     "Primer Parcial/Primer Parcial Parte 02/2Warm.md",
-    "Primer Parcial/Primer Parcial Parte 03/Based.md",
-    "Primer Parcial/Primer Parcial Parte 03/fixme2.py.md",
-    "Primer Parcial/Primer Parcial Parte 03/Glitch Cat.md",
-    "Primer Parcial/Primer Parcial Parte 03/plumbing.md",
-    "Primer Parcial/Primer Parcial Parte 03/PW Crack 1.md",
-    "Primer Parcial/Primer Parcial Parte 03/PW Crack 2.md",
-    "Primer Parcial/Primer Parcial Parte 03/PW Crack 3.md",
-    "Primer Parcial/Primer Parcial Parte 03/runme.py.md",
-    "Primer Parcial/Primer Parcial Parte 02/what's a net cat.md",
-    "Primer Parcial/Primer Parcial Parte 02/strings it.md",
-    "Primer Parcial/Primer Parcial Parte 02/fixme1.py.md",
-    "Primer Parcial/Primer Parcial Parte 02/First Grep.md",
-    "Primer Parcial/Primer Parcial Parte 02/convertme.py.md",
-    "Primer Parcial/Primer Parcial Parte 01/Wave a flag.md",
-    "Primer Parcial/Primer Parcial Parte 01/Warmed Up.md",
-    "Primer Parcial/Primer Parcial Parte 01/Tab, Tab, Attack.md",
-    "Primer Parcial/Primer Parcial Parte 01/Static ain't always noise.md",
-    "Primer Parcial/Primer Parcial Parte 01/Obedient Cat.md",
-    "Primer Parcial/Primer Parcial Parte 01/Nice netcat....md",
-    "Primer Parcial/Primer Parcial Parte 01/Magikarp Ground Mission.md",
-    "Primer Parcial/Primer Parcial Parte 01/Lets Warm Up.md",
-    "Retos Bandit/Level 12 - 13.md",
-    "Plantilla picoCTF.md",
     "Primer Parcial/Primer Parcial Parte 03",
     "Primer Parcial/Primer Parcial Parte 02",
-    "Primer Parcial/Primer Parcial Parte 01",
-    "Primer Parcial",
-    "Actividad 8 - Instalación de herramientas.pdf",
-    "Screenshot_2023-09-20_18_23_31.png",
-    "Presentaciones notas",
-    "Retos Bandit"
+    "Primer Parcial/Primer Parcial Parte 01"
   ]
 }
