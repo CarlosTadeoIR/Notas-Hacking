@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca4574fa7f2a2430",
+            "id": "0043a424c35717c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos  Forensic/Parte 1/What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos  Forensic/Parte 1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos  Forensic/Parte 1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Retos  Forensic/Parte 1/What Lies Within.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +149,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "192aefcd05238890",
+  "active": "0043a424c35717c7",
   "lastOpenFiles": [
+    "Pasted image 20231018023626.png",
+    "Pasted image 20231018023002.png",
+    "Pasted image 20231018022809.png",
+    "Retos Forensic/Parte 2/shark on wire 2.md",
+    "Retos Forensic/Parte 2/WhitePages.md",
+    "Retos Forensic/Parte 2/m00nwalk.md",
+    "Retos Forensic/Parte 2/like1000.md",
+    "Retos Forensic/Parte 2/c0rrupt.md",
+    "Retos Forensic/Parte 1/Glory of the Garden.md",
+    "Plantilla picoCTF.md",
+    "Retos Forensic/Parte 2",
     "Retos  Forensic/Sin título",
     "Retos  Forensic/Parte 1/So Meta.md",
     "Retos  Forensic/Parte 1/shark on wire 1.md",
@@ -173,8 +176,6 @@
     "Imagenes/Pasted image 20231013235201.png",
     "Retos Web/PARTE 3/Scavenger Hunt.md",
     "Imagenes/Pasted image 20231013230753.png",
-    "Imagenes/Pasted image 20231013230655.png",
-    "Plantilla picoCTF.md",
     "Retos Web/PARTE 1/picobrowser.md",
     "Retos  Forensic/Parte 1",
     "Retos  Forensic",
@@ -187,23 +188,13 @@
     "Retos Web/PARTE 3/GET aHEAD.md",
     "Retos Web/PARTE 3/Cookies.md",
     "Retos Web/PARTE 2/Irish-Name-Repo 1.md",
-    "Imagenes/Pasted image 20231010004535.png",
-    "Imagenes/Pasted image 20231010002756.png",
     "Retos Web/PARTE 3",
     "Retos Web/PARTE 2/Irish-Name-Repo 2.md",
     "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
-    "README.md",
-    "Prueba.md",
     "Actividad 8 - Instalación de herramientas.pdf",
-    "2023-09-05.md",
-    "Retos Web/PARTE 1/where are the robots.md",
     "Retos Web/PARTE 2",
     "Retos Web/PARTE 1",
-    "Retos Concurso/Poor security.md",
-    "Retos Concurso/Hidden-Instruction.md",
     "Retos Concurso",
-    "Imagenes",
-    "Retos Web",
-    "Primer Parcial/Primer Parcial Parte 03"
+    "Imagenes"
   ]
 }
