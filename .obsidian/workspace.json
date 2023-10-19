@@ -14,8 +14,69 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "234d64a9b21dfe09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Forensic/Parte 3/Matryoshka doll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6ce36380e2ec70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Forensic/Parte 3/tunn3l v1s10n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc31fcf0e5378f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Forensic/Parte 3/MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1930a5ca119201e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Forensic/Parte 3/WebNet0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ceb633ba66d6a1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Forensic/Parte 3/WebNet1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retos Forensic/Parte 3/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retos Forensic/Parte 3/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retos Forensic/Parte 3/WebNet1.md"
+              }
             }
           },
           {
@@ -149,8 +214,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0043a424c35717c7",
+  "active": "192aefcd05238890",
   "lastOpenFiles": [
+    "Retos Forensic/Parte 3/WebNet0.md",
+    "Retos Forensic/Parte 3/WebNet1.md",
+    "Imagenes/parte 3 Forensic/Pasted image 20231018232418.png",
+    "Imagenes/parte 3 Forensic/Pasted image 20231018225736.png",
+    "Imagenes/parte 3 Forensic/Pasted image 20231018230313.png",
+    "Retos Forensic/Parte 3/MacroHard WeakEdge.md",
+    "Retos Forensic/Parte 3/tunn3l v1s10n.md",
+    "Retos Forensic/Parte 3/Matryoshka doll.md",
+    "Retos Concurso/Find the message.md",
+    "Retos Concurso/Discord.md",
+    "Retos Concurso/An intriguing file.md",
+    "Plantilla picoCTF.md",
+    "Imagenes/parte 3 Forensic",
+    "Retos Forensic/Parte 3",
     "Pasted image 20231018023626.png",
     "Pasted image 20231018023002.png",
     "Pasted image 20231018022809.png",
@@ -160,7 +239,6 @@
     "Retos Forensic/Parte 2/like1000.md",
     "Retos Forensic/Parte 2/c0rrupt.md",
     "Retos Forensic/Parte 1/Glory of the Garden.md",
-    "Plantilla picoCTF.md",
     "Retos Forensic/Parte 2",
     "Retos  Forensic/Sin título",
     "Retos  Forensic/Parte 1/So Meta.md",
@@ -172,29 +250,16 @@
     "Retos  Forensic/Parte 1/What Lies Within.md",
     "Imagenes/Pasted image 20231014003256.png",
     "Imagenes/Pasted image 20231013235505.png",
-    "Imagenes/Pasted image 20231013235329.png",
-    "Imagenes/Pasted image 20231013235201.png",
     "Retos Web/PARTE 3/Scavenger Hunt.md",
-    "Imagenes/Pasted image 20231013230753.png",
     "Retos Web/PARTE 1/picobrowser.md",
     "Retos  Forensic/Parte 1",
     "Retos  Forensic",
-    "Retos Concurso/An intriguing file.md",
     "Retos Web/PARTE 1/logon.md",
     "Retos Web/PARTE 1/Insp3ct0r.md",
     "Retos Web/PARTE 1/dont-use-client-side.md",
-    "Retos Web/PARTE 1/Client-side-again.md",
-    "Retos Web/PARTE 2/JaWT Scratchpad.md",
-    "Retos Web/PARTE 3/GET aHEAD.md",
-    "Retos Web/PARTE 3/Cookies.md",
-    "Retos Web/PARTE 2/Irish-Name-Repo 1.md",
     "Retos Web/PARTE 3",
-    "Retos Web/PARTE 2/Irish-Name-Repo 2.md",
-    "Retos Web/PARTE 2/Irish-Name-Repo 3.md",
     "Actividad 8 - Instalación de herramientas.pdf",
     "Retos Web/PARTE 2",
-    "Retos Web/PARTE 1",
-    "Retos Concurso",
-    "Imagenes"
+    "Retos Web/PARTE 1"
   ]
 }
