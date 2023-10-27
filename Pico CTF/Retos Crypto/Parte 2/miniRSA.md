@@ -1,0 +1,75 @@
+## Objetivo 
+
+Let's decrypt this: [ciphertext](https://jupiter.challenges.picoctf.org/static/eb5e6df8e14c52873cf88c582a1a4008/ciphertext)? Something seems a bit small.
+
+---
+## Datos de acceso al nivel 
+
+https://jupiter.challenges.picoctf.org/static/eb5e6df8e14c52873cf88c582a1a4008/ciphertext
+
+clave de 2048 bits
+
+---
+## Solución 
+
+cuando descarguemos el archivo este contendrá los siguientes datos 
+
+``` bash
+N: 29331922499794985782735976045591164936683059380558950386560160105740343201513369939006307531165922708949619162698623675349030430859547825708994708321803705309459438099340427770580064400911431856656901982789948285309956111848686906152664473350940486507451771223435835260168971210087470894448460745593956840586530527915802541450092946574694809584880896601317519794442862977471129319781313161842056501715040555964011899589002863730868679527184420789010551475067862907739054966183120621407246398518098981106431219207697870293412176440482900183550467375190239898455201170831410460483829448603477361305838743852756938687673
+e: 3
+
+ciphertext (c): 2205316413931134031074603746928247799030155221252519872650080519263755075355825243327515211479747536697517688468095325517209911688684309894900992899707504087647575997847717180766377832435022794675332132906451858990782325436498952049751141 
+```
+
+con estos datos podemos definir lo siguiente
+```
+c = m ^ e mod n
+c = m ^ 3
+m = 3 raiz c
+```
+dejado esto en claro podemos excluir el uso del valor de la `n` .
+
+Para dar solución a este problema tenemos que guardar los datos de `e` y de `c`  en una terminal Python para procesarlos 
+
+antes de empezar tenemos que asegurarnos de tener las siguiente librerías en nuestro sistema  
+```python
+pip install pycryptodome
+```
+
+```python
+sudo python3 -m pip install gmpy2 
+```
+
+
+Si ya las tenemos podemos seguir con el proceso en una terminal Python 
+
+```python 
+>>># Primero se imporatn las librerias
+>>> from Crypto.Util.number import long_to_bytes
+>>> from gmpy2 import *
+>>>
+>>># Despues establecemos la presicion de calculo
+>>> gmpy2.get_context().precision*2048 
+108544
+>>># Guardamos nuestros datos 
+>>> e=3
+>>>c=2205316413931134031074603746928247799030155221252519872650080519263755075355825243327515211479747536697517688468095325517209911688684309894900992899707504087647575997847717180766377832435022794675332132906451858990782325436498952049751141
+>>>
+>>># usamos la funcio root que se encuentra en gmpy2  
+>>> root, exact = iroot(c, e) 
+>>> root
+mpz(13016382529449106065894479374027604750406953699090365388203722801043052339225981)
+>>> long_to_bytes(root)
+b'picoCTF{n33d_a_lArg3r_e_d0cd6eae}'
+```
+
+**Resultado Final**
+```
+picoCTF{n33d_a_lArg3r_e_d0cd6eae}
+```
+
+---
+## Notas Adicionales 
+
+---
+## Referencias 
