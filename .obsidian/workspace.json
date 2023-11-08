@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afe073182c679eef",
+        "id": "b15f7a7d832c9049",
         "type": "tabs",
         "children": [
           {
-            "id": "40180a2ad167217d",
+            "id": "57dd72fb6a3d13a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pico CTF/Retos Reversing/vault-door-5.md",
+                "file": "Pico CTF/Retos Reversing/Parte 2/asm2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pico CTF/Retos Reversing/vault-door-5.md",
+                "file": "Pico CTF/Retos Reversing/Parte 2/asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pico CTF/Retos Reversing/vault-door-5.md",
+                "file": "Pico CTF/Retos Reversing/Parte 2/asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pico CTF/Retos Reversing/vault-door-5.md"
+                "file": "Pico CTF/Retos Reversing/Parte 2/asm2.md"
               }
             }
           }
@@ -157,14 +157,21 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "40180a2ad167217d",
+  "active": "57dd72fb6a3d13a4",
   "lastOpenFiles": [
-    "Pico CTF/Retos Reversing/vault-door-4.md",
-    "Pico CTF/Retos Reversing/vault-door-3.md",
-    "Pico CTF/Retos Reversing/vault-door-1.md",
-    "Pico CTF/Retos Reversing/vault-door-training.md",
-    "Pico CTF/Retos Reversing/vault-door-5.md",
+    "Pico CTF/Retos Reversing/Parte 2/asm3.md",
+    "Pico CTF/Retos Reversing/Parte 2/asm3_imagen.png",
+    "Pico CTF/Retos Reversing/Parte 2/asm2.md",
+    "Pico CTF/Retos Reversing/Parte 2/asm1.md",
+    "Retos Bandit/Level 17 - 18.md",
     "Plantilla picoCTF.md",
+    "Pico CTF/Retos Reversing/Parte 1/vault-door-1.md",
+    "Pico CTF/Retos Reversing/Parte 2",
+    "Pico CTF/Retos Reversing/Parte 1/vault-door-5.md",
+    "Pico CTF/Retos Reversing/Parte 1",
+    "Pico CTF/Retos Reversing/Parte 1/vault-door-4.md",
+    "Pico CTF/Retos Reversing/Parte 1/vault-door-3.md",
+    "Pico CTF/Retos Reversing/Parte 1/vault-door-training.md",
     "Pico CTF/Retos Crypto/Parte 3/Pixelated.md",
     "Pico CTF/Retos Reversing",
     "Pico CTF/Retos Crypto/Parte 3/basic-mod1.md",
@@ -182,10 +189,6 @@
     "Pico CTF/Retos Crypto/Parte 1/waves over lambda.md",
     "Pico CTF/Retos Crypto/Parte 2",
     "Pico CTF/Retos Crypto/Parte 1/Tapping.md",
-    "Pico CTF/Retos Crypto/Parte 1/la cifra de.md",
-    "Pico CTF/Retos Crypto/Parte 1/Easy1.md",
-    "Pico CTF/Retos Crypto/Parte 1/The Numbers.md",
-    "Pico CTF/Retos Crypto/Parte 1/caesar.md",
-    "Pico CTF/Retos Crypto/Parte 1/13.md"
+    "Pico CTF/Retos Crypto/Parte 1/la cifra de.md"
   ]
 }
